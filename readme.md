@@ -4,6 +4,9 @@
 
 
  ## Airtable
+
+ Airtable is simpel and work with vanilla javascript ,react etc  working with out any issue.
+
  >  [Airtable API Doce](https://airtable.com/api)
 
  vanilla javascript Airtable cms
@@ -59,7 +62,11 @@ base('Table 1').select({
 
 ### Webflow CMS items with Airtable Scripts
 
+Add add button as a filed and give a action scripte to perform.
+
 > Ref : [https://www.connorfinlayson.com/account/scripts](https://www.connorfinlayson.com/account/scripts)
+
+> youtub:  https://www.youtube.com/watch?v=icnIxrbwSqE&list=PLf7bF8lss8GFoxG_NKfYfhnXkxNGDn-QY&index=1
 
 > Insertion
 ```
@@ -190,6 +197,11 @@ if (freelancerID) {
 
 
 ## Notion
+For working with Notion react or node app will be best. using with vanilla js facing some issues. also  can use with netlify fuction.
+
+
+> Ref : [https://www.sitepoint.com/notion-api-javascript-sdk/](https://www.sitepoint.com/notion-api-javascript-sdk/)
+
 Notion  api using axios
 ```
 var axios = require('axios');
